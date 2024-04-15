@@ -1,1 +1,1 @@
-# Sure-here-it-is-Learn-Lambda-Functions-by-Building-an-Expense-Tracker
+I am developing an Expense Tracker application using Python Lambda Functions to ensure efficient operations. The app provides convenient expense management tools such as adding, editing, and deleting expenses. I welcome contributions from others and would appreciate any feedback.
